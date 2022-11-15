@@ -29,7 +29,7 @@ h1 {
     font-family: 'Poppins', sans-serif;
     text-align: center;
     color: #ffffff;
-    font-size: 1.5rem;
+    font-size: 6vw;
     margin-top: 52px;
     text-transform: capitalize;
 }
@@ -58,9 +58,8 @@ main img {
     width: 52vw;
     height: 10vw;
     border-radius: 50px;
+    font-size: 1rem;
     color: var(--primary-violet);
-    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
-    /* box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; */
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 
